@@ -1,0 +1,6 @@
+{
+  "name": "CélulaQuiz",
+  "description": "Juego educativo e interactivo sobre biología celular con múltiples modos de juego, niveles de dificultad, multijugador y un diseño oscuro vibrante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
